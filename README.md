@@ -22,7 +22,7 @@ GloucoGuide combines software engineering and machine learning to help diabetes 
 ![System architecture](1.png)
 ---
 ### **System Components Diagram**
-![System Components Diagram](2.png)
+![System Components Diagram](2.jpg)
 
 ### **Backend**
 - Java • Spring Boot  
