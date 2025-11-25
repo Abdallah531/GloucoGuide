@@ -18,7 +18,11 @@ GloucoGuide combines software engineering and machine learning to help diabetes 
 ---
 
 ## 🏗️ Tech Stack
+### **System architecture**
 ![System architecture](1.png)
+---
+### **System Components Diagram**
+![System Components Diagram](2.png)
 
 ### **Backend**
 - Java • Spring Boot  
