@@ -1,0 +1,5 @@
+# Created at ٢٠٢٤-٠٧-٠٨T٢٠:٤٩:١٩.٧٨٧
+Boot Manifest-JAR contains absolute paths in classpath 'E:\abdallah\Graduation-Project-main\GlucoGuide\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
