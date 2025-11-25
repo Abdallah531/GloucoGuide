@@ -73,8 +73,7 @@ Encrypted storage for glucose levels, weight, symptoms, and other health metrics
 Custom recommendations for diet, exercise, and wellness.
 
 ### 🔹 Predictive Analytics  
-ML models that provide risk scores and forecast potential health issues.
-
+ML models that provide risk scores.
 ### 🔹 Location-Based Medical Assistance  
 Google Maps API integration to help users locate:  
 - Nearby clinics  
